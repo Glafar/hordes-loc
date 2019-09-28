@@ -292,7 +292,7 @@ export default {
     de: 'Chat',
     fr: 'Chat',
     nl: 'praten',
-    tr: 'sohbet',
+    tr: 'Sohbet',
     pt: 'Chat',
     pl: 'pogawędka',
     ht: 'Chat',
@@ -340,7 +340,7 @@ export default {
     de: 'Chathöhe',
     fr: 'Hauteur du chat',
     nl: 'Chathoogte',
-    tr: 'Chat yükskliği',
+    tr: 'Chat yüksekliği',
     pt: 'Altura do chat',
     pl: 'Wysokość rozmowy',
     ht: 'Wotè chat',
@@ -373,7 +373,7 @@ export default {
     cs: 'Rozhraní',
     hi: 'अन्तराफलक',
     fr: 'Interface',
-    tr: 'Arayüzey',
+    tr: 'Arayüz',
     ht: 'Entèfas',
     ko: '인터페이스',
     ja: 'インタフェース',
@@ -426,6 +426,7 @@ export default {
     ko: '인벤토리 너비',
     ht: 'Lajè Envantè',
     ja: '在庫の幅'
+    tr: 'Envanter genişliği',
   },
 
   tutorial: {
