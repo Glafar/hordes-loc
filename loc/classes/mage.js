@@ -37,7 +37,7 @@ export default {
     ko: '마법사는 매우 큰 무거운 대 면적의 효과 피해를 처리하는 동시에 얼음 기반의 마법으로 대상의 속도를 늦추어 유틸리티를 제공합니다.',
     pt: 'Os magos causam danos muito pesados em grande escala na sua Área de Efeito, ao mesmo tempo que também fornecem utilidade através da diminuição da velocidade dos alvos com a sua magia baseada em gelo.',
     nl: 'Magiërs geven zeer zware, grootschalige schade aan het gebied van het effect aan te pakken, terwijl ze ook het nut van het afremmen van doelen met hun op ijs gebaseerde magie vergroten.',
-    tr: 'Büyücüler ağır alan etkili hasar verirken buz büyüleriyle hedeflerini yavaşlatır.',
+    tr: 'Büyücüler geniş çaplı bir alana ağır hasar verirken, buz bazlı büyüleriyle de hedeflerini yavaşlatırlar.',
     it: 'I maghi infliggono danni di Area of Effect molto pesanti su larga scala, fornendo anche utilità attraverso il rallentamento degli obiettivi con la loro magia basata sul ghiaccio.',
     ht: 'Maj kontra gwo echèl gwo Zòn domaj nan efè, pandan y ap tou bay sèvis piblik nan ralanti sib ak majik ki baze sou glas yo.',
     tl: 'Mages makitungo ng napakabigat na malaking sukat ng Area of Effect na pinsala, habang nagbibigay din ng utility sa pamamagitan ng pagbagal ng mga target sa kanilang yelo batay magic.',
