@@ -28,61 +28,73 @@ export default {
     {
       en: 'Exp Gain',
       ru: 'Прибыль Опыта',
+      tr: 'Tecrübe kazanımı',
       fr: 'Gain d\'xp'
     },
     {
       en: 'Target Change',
       ru: 'Смена Цели',
+      tr: 'Hedef değişikliği',
       fr: 'Changement de Cible'
     },
     {
       en: 'Cast',
       ru: 'Каст',
+      tr: 'Oyuncular',
       fr: 'Cast'
     },
     {
       en: 'Damage',
       ru: 'Урон',
+      tr: 'Hasar',
       fr: 'Damage'
     },
     {
       en: 'Heal',
       ru: 'Исцеления',
+      tr: 'Sağlık',
       fr: 'Heal'
     },
     {
       en: 'Death',
       ru: 'Смерть',
+      tr: 'Ölüm',
       fr: 'Death'
     },
     {
       en: 'Level Up',
       ru: 'Повышения Уровня',
+      tr: 'Seviye atlama',
       fr: 'Level Up'
     },
     {
       en: 'Items',
       ru: 'Предметы',
+      tr: 'Materyal',
       fr: 'Items'
     },
     {
       en: 'Auction',
       ru: 'Аукцион',
+      tr: 'Açık arttırma',
       fr: 'Enchères'
     },
     {
       en: 'Pick Gold',
       ru: 'Собранное Золото',
+      tr: 'Altın toplama',
       fr: 'Gold Ramassé'
     },
     {
       en: 'Spent Gold',
       ru: 'Потраченное Золото',
+      tr: 'Harcanan altın',
       fr: 'Gold Utilisé'
     },
     {
       en: 'Fame Gain',
       ru: 'Прибыль Славы',
+      tr: 'Şöhret kazancı',
       fr: 'Gain de Gloire'
     }
   ]
