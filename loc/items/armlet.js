@@ -103,6 +103,7 @@ export default [
       ja: '最後のマンモスの牙から作られたエレガントな袖口。',
       ro: 'Manșetă elegantă confecționată din colții ultimului mamut.',
       da: 'Elegante manchetter lavet af tommelfingeren fra den sidste mammut.'
+      tr: 'Son mamutun dişlerinden yapılmış zarif manşet bilezik.  '
     }
   },
 
@@ -120,7 +121,7 @@ export default [
       pl: 'Ciężko na twojej ręce... warte ochrony.',
       sv: 'Tung på armen ... värt skydd.',
       tl: 'Malakas sa iyong braso ... nagkakahalaga ng proteksyon.',
-      tr: 'Kolunda ağır durur... koruma için değer.',
+      tr: 'Kolların için oldukça ağır... saklamaya değer.',
       ht: 'Lou... men vo defans yo.',
       it: 'Pesante sul braccio... vale la pena proteggerlo.',
       el: 'Βαρύ στο χέρι σου... αξίζει την προστασία.',
@@ -144,8 +145,8 @@ export default [
       pt: 'Braçadeira de metal aborrecida, útil para raides nocturnos.',
       ko: '무딘 금속 브레이 서, 야간의 습격에 편리합니다.',
       nl: 'Doffe metalen polsbeschermers, handig voor nachtelijke overvallen.',
-      sv: 'Dull metall bracer, praktisk för natten raiding.',
-      tr: 'Donuk metal tutucu, gece baskını için kullanışlı.',
+      sv: 'Dull metal bracer, praktisk för natten raiding.',
+      tr: 'Mat metal tutucu, gece baskını için kullanışlı.',
       pl: 'Nudny metalowy biustonosz, przydatny podczas nocnych nalotów.',
       tl: 'Mapurol na metal bracer na madaling gamitin para sa pag-atake ng gabi.',
       ht: 'Dim metal braslè, pratik pou atak lannwit.',
@@ -335,7 +336,7 @@ export default [
       nl: 'Dit voorwerp werd gesmeden bij volle maan toen er mysterieuze bezweringen gehoord werden in het gefluister van de duisternis. Sommige zeggen dat het Anibus zelf was die met de doden sprak.',
       pl: 'Ten przedmiot został wykuty w czasie pełni księżyca, gdy w szeptach ciemności usłyszano tajemnicze zaklęcia. Niektórzy mówią, że to sam Anubis mówił ze zmarłymi.',
       sv: 'Det här objektet smiddes på en fullmåne när mystiska incantations hördes i mörkets viskningar. Vissa säger att det var Anubis själv som talade med de döda.',
-      tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis\'in kendisi olduğunu söylüyor.',
+      tr: 'Bu eşya, karanlığın fısıltılarında gizemli sihirli sözler duyulduğunda, dolunayda dövüldü. Bazıları bunun ölülerle konuşan Anubis'in kendisi olduğunu söylüyor.',
       tl: 'Ang item na ito ay ginawa sa isang buong buwan kapag mahiwaga incantations ay narinig sa whispers ng madilim. Sinasabi ng ilan na si Anubis mismo ay nakikipag-usap sa mga patay.',
       ht: 'Atik sa a te fòje nan lalin lan plen lè òneman misterye te tande nan yon murmures nan fènwa. Gen kèk ki di ke li te Anubi tèt li, pale ak moun ki mouri yo.',
       it: 'Questo oggetto è stato forgiato su una luna piena quando misteriosi incantesimi sono stati ascoltati nei sussurri del buio. Alcuni dicono che sia stato Anubi stesso a parlare con i morti.',
